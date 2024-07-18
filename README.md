@@ -13,6 +13,8 @@
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+* JavaScript
+  
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
